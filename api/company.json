@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 10780,
+      "username": "北方公司",
+      "sex": "国企",
+      "city": "西校区",
+      "sign": "9.24",
+      "experience": 12345678901
+    },
+    {
+      "id": 14501,
+      "username": "神州公司",
+      "sex": "国企",
+      "city": "南校区",
+      "sign": "9.23",
+      "experience": 18834172299
+    },
+    {
+      "id": 10200,
+      "username": "联合公司",
+      "sex": "私企",
+      "city": "南校区",
+      "sign": "9.17",
+      "experience": 67548392010
+    },
+    {
+      "id": 10056,
+      "username": "万科股份",
+      "sex": "国企",
+      "city": "主校区",
+      "sign": "9.14",
+      "experience": 13425637810
+    },
+    {
+      "id": 10454,
+      "username": "宇宙公司",
+      "sex": "国企",
+      "city": "晋城小区",
+      "sign": "9.16",
+      "experience": 12636278129
+    },
+    {
+      "id": 10445,
+      "username": "银河公司",
+      "sex": "私企",
+      "city": "西校区",
+      "sign": "9.5",
+      "experience": 17367463829
+    },
+    {
+      "id": 10444,
+      "username": "sky公司",
+      "sex": "私企",
+      "city": "南校区",
+      "sign": "9.25",
+      "experience": 98256789435
+    },
+    {
+      "id": 10443,
+      "username": "大地公司",
+      "sex": "私企",
+      "city": "主校区",
+      "sign": "9.13",
+      "experience": 72745678934
+    },
+    {
+      "id": 10354,
+      "username": "中迪公司",
+      "sex": "国企",
+      "city": "晋城校区",
+      "sign": "9.28",
+      "experience": 78655678951
+    },
+    {
+      "id": 10349,
+      "username": "盛大公司",
+      "sex": "国企",
+      "city": "西校区",
+      "sign": "9.8",
+      "experience": 78656478484
+    }
+  ]
+}

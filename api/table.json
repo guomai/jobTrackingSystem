@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 10780,
+      "username": "北方公司",
+      "sex": "国企",
+      "city": "上海",
+      "sign": "24",
+      "experience": 12345678901
+    },
+    {
+      "id": 14501,
+      "username": "神州公司",
+      "sex": "国企",
+      "city": "北京",
+      "sign": "23",
+      "experience": 18834172299
+    },
+    {
+      "id": 10200,
+      "username": "联合公司",
+      "sex": "私企",
+      "city": "河北",
+      "sign": "44",
+      "experience": 67548392010
+    },
+    {
+      "id": 10056,
+      "username": "万科股份",
+      "sex": "女国企",
+      "city": "山西",
+      "sign": "34",
+      "experience": 13425637810
+    },
+    {
+      "id": 10454,
+      "username": "宇宙公司",
+      "sex": "国企",
+      "city": "北京",
+      "sign": "54",
+      "experience": 12636278129
+    },
+    {
+      "id": 10445,
+      "username": "银河公司",
+      "sex": "私企",
+      "city": "上海",
+      "sign": "34",
+      "experience": 17367463829
+    },
+    {
+      "id": 10444,
+      "username": "sky公司",
+      "sex": "私企",
+      "city": "河北",
+      "sign": "55",
+      "experience": 98256789435
+    },
+    {
+      "id": 10443,
+      "username": "大地公司",
+      "sex": "私企",
+      "city": "山西",
+      "sign": "33",
+      "experience": 72745678934
+    },
+    {
+      "id": 10354,
+      "username": "中迪公司",
+      "sex": "国企",
+      "city": "北京",
+      "sign": "28",
+      "experience": 78655678951
+    },
+    {
+      "id": 10349,
+      "username": "盛大公司",
+      "sex": "国企",
+      "city": "山西",
+      "sign": "45",
+      "experience": 78656478484
+    }
+  ]
+}
